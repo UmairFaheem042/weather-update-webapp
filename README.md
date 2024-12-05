@@ -1,7 +1,5 @@
 # Weather Update webapp
 
-## Live Preview: https://umairfaheem042.github.io/weather-update-webapp/
-
 ### Dark Mode
 ![WWW](https://github.com/UmairFaheem042/weather-update-webapp/assets/103030494/8b47131d-818a-4e57-a84e-98fb563572c6)
 
